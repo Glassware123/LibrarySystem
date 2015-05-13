@@ -1,0 +1,97 @@
+h1{
+	color:#D26900;
+	font-style:italic;
+	}
+#header{
+	background-color:#F00;
+	float:left;
+	position:relative;
+	width:80%;
+	height:100px;
+	margin-left:10%;
+	margin-right:10%;
+	}
+#menu{
+	float:left;
+	position:relative;
+	width:80%;
+	height:50px;
+	margin-left:10%;
+	margin-right:10%;
+	margin-top:10px;
+	margin-bottom:10px;
+	}
+	#menu a:link{
+		color:#09F;
+		text-decoration:none;
+		font-weight:bold;
+		}
+	#menu a:visited{	
+		color:#09F;
+		text-decoration:none;
+		font-weight:bold;}
+	#menu a:hover{
+		color:#09F;
+		background-color:#DDD;
+		text-decoration:none;
+		font-weight:bold;}
+	#menu ul li {
+		float:left;
+		padding-left:20%;
+		padding-right:20%;
+		text-align:center;
+		}
+	#container{
+	float:left;
+	position:relative;
+	width:80%;
+	margin-left:10%;
+	margin-right:10%;
+	margin-bottom:10px;
+		}
+#categories{
+	float:left;
+	position:relative;
+	width:18%;
+	margin-right:2%;
+	}
+	#categories a:link{
+		color:#DDD;
+		text-decoration:none;
+	}
+	#categories a:hover{
+		color:#FFF;
+		background-color:#F00;
+		text-decoration:none;
+	}
+	#categories a:visited{
+			color:#DDD;
+			text-decoration:none;
+	}
+#content{
+	background-color:#DDD;
+	float:left;
+	position:relative;
+	width:80%;
+	}
+	#content a:link{
+		color:#000;
+		text-decoration:none;
+	}
+	#content a:visited{
+		color:#000;
+		text-decoration:none;
+	}
+	#content a:hover{
+		color:#FFF;
+		background-color:#00F;
+		text-decoration:none;
+	}
+#footer{
+	background-color:#09F;
+	float:left;
+	position:relative;
+	width:80%;
+	margin-left:10%;
+	margin-right:10%;
+	}
